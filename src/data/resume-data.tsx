@@ -9,11 +9,7 @@ export const RESUME_DATA: ResumeData = {
   locationLink: "https://maps.app.goo.gl/7ZtEGvbnB1vCJP759",
   about: "Full Stack Wizard, Coding Spells Daily",
   metadataAbout: "Full Stack Wizard",
-  summary: `Dedicated Software Engineer with over 4 years of experience in frontend development, including nearly 1
-    years as a contractor. Demonstrated ability to drive high-impact results by leading cross-functional teams and
-    successfully delivering projects across diverse domains, including R&D, Front-end, Back-end, and DevOps.
-    Adept at collaborating with stakeholders and CTOs to align technical solutions with business objectives.
-    Committed to upholding clean coding practices and maintaining technical excellence.`,
+  summary: `Dedicated Software Engineer with over 4 years of experience in frontend development, including nearly 1 years as a contractor. Demonstrated ability to drive high-impact results by leading cross-functional teams and successfully delivering projects across diverse domains, including R&D, Front-end, Back-end, and DevOps.  Adept at collaborating with stakeholders and CTOs to align technical solutions with business objectives.  Committed to upholding clean coding practices and maintaining technical excellence.`,
   avatarUrl: "https://avatars.githubusercontent.com/u/33964750?v=4",
   personalWebsiteUrl: "https://medy.dev",
   contact: {
