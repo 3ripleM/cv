@@ -11,8 +11,12 @@ import { ProjectCard } from "@/components/project-card";
 import { Fragment } from "react";
 
 export const metadata: Metadata = {
-  title: `${RESUME_DATA.name} | ${RESUME_DATA.about}`,
+  title: `${RESUME_DATA.name} | ${RESUME_DATA.metadataAbout}`,
   description: RESUME_DATA.summary,
+  openGraph: {
+    type: "website",
+    images: RESUME_DATA.avatarUrl,
+  },
 };
 
 export default function Page() {
